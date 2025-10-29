@@ -15,7 +15,7 @@ Alpha Vantage API allows 25 request per day and Financial Modeling Prep API allo
 The project was initially developed as python notebook to allow for testing without sending excess API requests.
 
 As the data comes from APIs and is out of my control, there were some considerations:<br/> 
-- What if two companies share similar name?
+- What if two companies share same name?
   - The data is handled by the tickers which are always unique
 - What if API pull results less than 10 companies?
   - The graph shows any amount of companies it can, up to ten

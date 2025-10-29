@@ -24,6 +24,6 @@ As the data comes from APIs and is out of my control, there were some considerat
 - What if the company name is extremely long?
   - Company names are trimmed to maximum of 35 characters
 
-Data sources:<br/> 
+#### Data sources:
 - [Alpha Vantage API](https://www.alphavantage.co/)<br/> 
 - [Financial Modeling Prep API](https://site.financialmodelingprep.com/)
